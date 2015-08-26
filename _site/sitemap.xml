@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://bencentra.com//jekyll/2015/04/18/welcome-to-jekyll.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//news/2015/08/25/RAPIDD-workshop.html</loc>
+    <lastmod>2015-08-25T10:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com//dummy/2015/04/18/dummy6.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//news/2015/07/30/new-manuscript.html</loc>
+    <lastmod>2015-07-30T10:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com//dummy/2015/04/18/dummy5.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//news/2015/07/18/CECAM-workshop.html</loc>
+    <lastmod>2015-07-18T10:00:00+02:00</lastmod>
   </url>
   <url>
-    <loc>http://bencentra.com//dummy/2015/04/18/dummy4.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//about/</loc>
   </url>
   <url>
-    <loc>http://bencentra.com//dummy/2015/04/18/dummy3.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//research/</loc>
   </url>
   <url>
-    <loc>http://bencentra.com//dummy/2015/04/18/dummy2.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//publications/</loc>
   </url>
   <url>
-    <loc>http://bencentra.com//dummy/2015/04/18/dummy.html</loc>
-    <lastmod>2015-04-18T10:43:59+02:00</lastmod>
+    <loc>http://micheletizzoni.github.io//activities/</loc>
   </url>
   <url>
-    <loc>http://bencentra.com//about/</loc>
+    <loc>http://micheletizzoni.github.io//contact/</loc>
   </url>
   <url>
-    <loc>http://bencentra.com//</loc>
+    <loc>http://micheletizzoni.github.io//</loc>
   </url>
   <url>
-    <loc>http://bencentra.com//posts/</loc>
-  </url>
-  <url>
-    <loc>http://bencentra.com//typography/</loc>
-  </url>
-  <url>
-    <loc>http://bencentra.com//page2/</loc>
+    <loc>http://micheletizzoni.github.io//posts/</loc>
   </url>
 </urlset>

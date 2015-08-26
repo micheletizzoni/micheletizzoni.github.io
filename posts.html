@@ -4,6 +4,9 @@ title: "Posts"
 permalink: /posts/
 ---
 
+<img src="{{ site.baseurl }}assets/icons/printer.svg" title="Research Logo" class="profile" height="148" width="148">
+
+
 {% for category in site.categories %}
 	{% capture cat %}{{ category | first }}{% endcapture %}
 	<h2>{{ cat | capitalize }}</h2>

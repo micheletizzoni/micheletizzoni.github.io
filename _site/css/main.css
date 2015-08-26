@@ -282,7 +282,7 @@ pre code.hljs {
     .site-header-container.has-cover .title, .post-header-container.has-cover .title {
       font-size: 2.98598em; }
     .site-header-container.has-cover .subtitle, .site-header-container.has-cover .info, .post-header-container.has-cover .subtitle, .post-header-container.has-cover .info {
-      font-size: 1.2em; }
+      font-size: 1.728em; }
   .site-header-container .scrim, .post-header-container .scrim {
     padding: 3em 1em; }
     .site-header-container .scrim.has-cover, .post-header-container .scrim.has-cover {
@@ -443,7 +443,7 @@ pre code.hljs {
       font-size: 2.98598em; }
     .page-content .site-header-container .site-header .subtitle {
       font-style: italic;
-      font-size: 1.2em; }
+      font-size: 1.728em; }
   .page-content img {
     display: block;
     margin: auto;
