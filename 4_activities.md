@@ -30,9 +30,9 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
   <li><a href="http://www.cecam.org/workshop-2-1215.html">Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.</a> Berlin, Germany, July 2015</li>
   <li><a href="http://www.netsci2015.net">NetSci. International Conference on Network Science.</a> Zaragoza, Spain, June 2015 [poster]</li>
   <li><a href="http://www.bigdive.eu/teachers/">Big Dive 4.</a> Torino, Italy, June 2015</li>
-  <li><a href="http://www.eccs14.eu">European Conference on Complex Systems.</a> Lucca, Italy, September 2015</li>
-  <li><a href="http://www.epidemics.elsevier.com/">Epidemics.</a> Amsterdam, Netherlands, November 2014</li>
+  <li><a href="http://www.eccs14.eu">European Conference on Complex Systems.</a> Lucca, Italy, September 2014</li>
   <li><a href="http://www.isi.it/the-future-of-public-health-in-digital-era-annecy-5-7-june-2014/">Future of Public Health in Digital Era.</a> Annecy, France, June 2014</li>
+  <li><a href="http://www.epidemics.elsevier.com/">Epidemics.</a> Amsterdam, Netherlands, November 2013</li>
   <li><a href="http://www.eccs13.eu">European Conference on Complex Systems.</a> Barcelona, Spain, September 2013</li>
   <li><a href="http://perso.uclouvain.be/vincent.blondel/netmob/2013/">NetMob. Third Conference on the Analysis of Mobile Phone Datasets.</a> Boston, MA, USA, May 2013</li>
   <li><a href="http://wp.simid.be/?page_id=68">SIMID Workshop.</a> Antwerp, Belgium, April 2013</li>
