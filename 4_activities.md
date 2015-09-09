@@ -14,11 +14,11 @@ I am currently a team member of the following research projects:
   <li><a href="https://Sociopatterns.org">SocioPatterns</a>, an interdisciplinary research collaboration that adopts sensing methodologies to measure social dynamics and coordinated human activity.</li>
 </ul>
 
-I have been supported by the EU grants:
+I have been supported by the following EU grants:
 <ul>
   <li><a href="https://www.cimplex-project.eu/">Cimplex</a> </li>
   <li><a href="http://www.multiplexproject.eu/">Multiplex</a> </li>
-  <li><a href="http://epifor.eu/">EpiFor</a> </li>
+  <li><a href="http://epifor.eu/">EpiFor</a></li>
 </ul>
 
 I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBeers Torino</a>, an informal networking event that aims at building a community of data lovers in Torino.
