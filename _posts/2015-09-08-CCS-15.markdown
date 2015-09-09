@@ -10,5 +10,5 @@ categories: news
 I will be in Tempe, AZ, to attend the [Conference of Complex Systems 2015](http://ccs2015.org) from September 28 to October 2, and present two talks:
 <ol>
 <li>"The scaling of human contacts and epidemic processes in metapopulation networks"</li>
-<li>"Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors" in the satellite meeting [Contagion](http://contagion15.weebly.com/)</li>
+<li>"Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors" in the satellite meeting <a href="http://contagion15.weebly.com/">Contagion</a></li>
 </ol>
