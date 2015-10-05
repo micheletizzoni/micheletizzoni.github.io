@@ -27,6 +27,8 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
+  <li><a href="http://contagion15.weebly.com/">Contagion'15.</a> Tempe, AZ, USA, September 2015</li>
+  <li><a href="http://ccs2015.org/">CCS'15.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://www.cecam.org/workshop-2-1215.html">Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.</a> Berlin, Germany, July 2015</li>
   <li><a href="http://www.netsci2015.net">NetSci. International Conference on Network Science.</a> Zaragoza, Spain, June 2015 [poster]</li>
   <li><a href="http://www.bigdive.eu/teachers/">Big Dive 4.</a> Torino, Italy, June 2015</li>
