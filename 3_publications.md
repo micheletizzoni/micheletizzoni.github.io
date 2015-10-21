@@ -20,8 +20,8 @@ Check out my profile on [Google Scholar][scholar].
   <br></br>
 
   <li><strong>M. Tizzoni</strong>, K. Sun, D. Benusiglio, M. Karsai, N. Perra<br></br>
-  <a href="">The scaling of human contacts and epidemic processes in metapopulation networks.</a><br></br>
-  Submitted. (2015)
+  <a href="http://www.nature.com/articles/srep15111">The scaling of human contacts and epidemic processes in metapopulation networks.</a><br></br>
+  Scientific Reports 5, 15111. (2015)
   </li>
   <br></br>
 
