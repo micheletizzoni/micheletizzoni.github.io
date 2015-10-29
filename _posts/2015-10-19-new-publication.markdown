@@ -7,5 +7,5 @@ categories: news
 #cover:  "assets/instacode.png"
 ---
 
-The paper ["The Scaling of Human Contacts in Reaction-Diffusion Processes on Heterogeneous Metapopulation Networks"
+The paper ["The Scaling of Human Contacts and Epidemic Processes in Metapopulation Networks"
 ](http://www.nature.com/articles/srep15111) has been published by Scientific Reports.
