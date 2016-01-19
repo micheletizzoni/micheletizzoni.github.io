@@ -13,6 +13,12 @@ Check out my profile on [Google Scholar][scholar].
 
 <ol reversed>
 
+  <li>M. Beirò, A. Panisson, <strong>M. Tizzoni</strong>, C. Cattuto<br></br>
+  <a href="http://arxiv.org/abs/1601.04560">Predicting human mobility through the assimilation of social media traces into mobility models</a><br></br>
+  Submitted. (2016)
+  </li>
+  <br></br>
+
   <li>M. C. Kiti, <strong>M. Tizzoni</strong>, T. M. Kinyanjui, D. C. Koech, P. K. Munywoki, M. Meriac, L. Cappa, A. Panisson, A. Barrat, C. Cattuto, D. J. Nokes<br></br>
   <a href="">Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors.</a><br></br>
   Submitted. (2015)
