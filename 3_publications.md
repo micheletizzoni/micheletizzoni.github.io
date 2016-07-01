@@ -19,9 +19,15 @@ Check out my profile on [Google Scholar][scholar].
   </li>
   <br></br>
 
+  <li>L. Argante, <strong>M. Tizzoni</strong>, D. Medini<br></br>
+  <a href="http://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-016-0642-2">Fast and accurate dynamic estimation of field effectiveness of meningococcal vaccines</a><br></br>
+  BMC Medicine 14, 98 (2016)
+  </li>
+  <br></br>
+
   <li>M. C. Kiti, <strong>M. Tizzoni</strong>, T. M. Kinyanjui, D. C. Koech, P. K. Munywoki, M. Meriac, L. Cappa, A. Panisson, A. Barrat, C. Cattuto, D. J. Nokes<br></br>
-  <a href="">Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors.</a><br></br>
-  Submitted. (2015)
+  <a href="http://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0084-2">Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors.</a><br></br>
+  EPJ Data Science 5, 21 (2016)
   </li>
   <br></br>
 
