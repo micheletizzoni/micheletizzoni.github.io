@@ -72,19 +72,17 @@ Check out my profile on [Google Scholar][scholar].
   </li>
   <br>
 
-  <li>V. Colizza, A. Vespignani, N. Perra, C. Poletto, B. Gonçalves, H. Hu, D. Balcan, D. Paolotti, W. Van den Broeck, <strong>M. Tizzoni</strong>, P. Bajardi, J. J. Ramasco.<br></br>
-  <a href="http://currents.plos.org/influenza/article/estimate-of-novel-influenza-ah1n1-cases-in-mexico-at-the-early-stage-of-the-pandemic-with-a-spatially-structured-epidemic-model/">Estimate of Novel Influenza A/H1N1 cases in Mexico at the early stage of the pandemic with a spatially structured epidemic model.</a><br></br>
+  <li>V. Colizza, A. Vespignani, N. Perra, C. Poletto, B. Gonçalves, H. Hu, D. Balcan, D. Paolotti, W. Van den Broeck, <strong>M. Tizzoni</strong>, P. Bajardi, J. J. Ramasco.<br>
+  <a href="http://currents.plos.org/influenza/article/estimate-of-novel-influenza-ah1n1-cases-in-mexico-at-the-early-stage-of-the-pandemic-with-a-spatially-structured-epidemic-model/">Estimate of Novel Influenza A/H1N1 cases in Mexico at the early stage of the pandemic with a spatially structured epidemic model.</a><br>
   PLoS Currents: Influenza. 2009 Nov 17 (2009)
   </li>
-  <br></br>
+  <br>
 
-
-  <li>D. Balcan, V. Colizza, A. C. Singer, C. Chouaid, H. Hu, B. Gonçalves, P. Bajardi, C. Poletto, J. J. Ramasco, N. Perra, <strong>M. Tizzoni</strong>, D. Paolotti, W. Van den Broeck, A. J. Valleron, A. Vespignani.<br></br>
-  <a href="http://currents.plos.org/influenza/article/modeling-the-critical-care-demand-and-antibiotics-resources-needed-during-the-fall-2009-wave-of-influenza-ah1n1-pandemic/">Modeling the critical care demand and antibiotics resources needed during the Fall 2009 wave of influenza A(H1N1) pandemic.</a><br></br>
+  <li>D. Balcan, V. Colizza, A. C. Singer, C. Chouaid, H. Hu, B. Gonçalves, P. Bajardi, C. Poletto, J. J. Ramasco, N. Perra, <strong>M. Tizzoni</strong>, D. Paolotti, W. Van den Broeck, A. J. Valleron, A. Vespignani.<br>
+  <a href="http://currents.plos.org/influenza/article/modeling-the-critical-care-demand-and-antibiotics-resources-needed-during-the-fall-2009-wave-of-influenza-ah1n1-pandemic/">Modeling the critical care demand and antibiotics resources needed during the Fall 2009 wave of influenza A(H1N1) pandemic.</a><br>
   PLoS Currents: Influenza Dec 8 (2009)
   </li>
-  <br></br>
-
+  <br>
 
   <li>P. Bajardi, C. Poletto, D. Balcan, H. Hu, B. Goncalves, J. J. Ramasco, D. Paolotti, N. Perra, <strong>M. Tizzoni</strong>, W. Van den Broeck, V. Colizza, A. Vespignani<br>
   <a href="http://www.eht-journal.net/index.php/ehtj/article/view/7093">Modeling vaccination campaigns and the Fall/Winter 2009 activity of the new A(H1N1) influenza in the Northern Hemisphere</a><br>
