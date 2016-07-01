@@ -73,7 +73,7 @@ Check out my profile on [Google Scholar][scholar].
   <br>
 
   <li>V. Colizza, A. Vespignani, N. Perra, C. Poletto, B. Gonçalves, H. Hu, D. Balcan, D. Paolotti, W. Van den Broeck, <strong>M. Tizzoni</strong>, P. Bajardi, J. J. Ramasco.<br>
-  <a href="http://currents.plos.org/influenza/article/estimate-of-novel-influenza-ah1n1-cases-in-mexico-at-the-early-stage-of-the-pandemic-with-a-spatially-structured-epidemic-model/">Estimate of Novel Influenza A/H1N1 cases in Mexico at the early stage of the pandemic with a spatially structured epidemic model.</a><br>
+  <a href="http://currents.plos.org/influenza/article/estimate-of-novel-influenza-ah1n1-cases-in-mexico-at-the-early-stage-of-the-pandemic-with-a-spatially-structured-epidemic-model/">Estimate of Novel Influenza A/H1N1 cases in Mexico at the early stage of the pandemic with a spatially structured epidemic model.</a>
   PLoS Currents: Influenza. 2009 Nov 17 (2009)
   </li>
   <br>
