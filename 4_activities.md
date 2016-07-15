@@ -27,6 +27,8 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
+  <li><a href="http://complexnets2016.org">Complex Networks 2016.</a> Marseille, France, July 2015</li>
+  <li><a href="http://www.netsci2016.net">NetSci 2016.</a> Seoul, South Korea, May 2016</li>
   <li><a href="http://contagion15.weebly.com/">Contagion'15.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://ccs2015.org/">CCS'15.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://www.cecam.org/workshop-2-1215.html">Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.</a> Berlin, Germany, July 2015</li>
@@ -37,17 +39,16 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
   <li><a href="http://www.epidemics.elsevier.com/">Epidemics.</a> Amsterdam, Netherlands, November 2013</li>
   <li><a href="http://www.eccs13.eu">European Conference on Complex Systems.</a> Barcelona, Spain, September 2013</li>
   <li><a href="http://perso.uclouvain.be/vincent.blondel/netmob/2013/">NetMob. Third Conference on the Analysis of Mobile Phone Datasets.</a> Boston, MA, USA, May 2013</li>
-  <li><a href="http://wp.simid.be/?page_id=68">SIMID Workshop.</a> Antwerp, Belgium, April 2013</li>
 </ul>
 
 <hr>
 
 <h2>Teaching</h2>
-I am teaching assistant at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis.  
 <ul>
-  <li>undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>, academic year 2014-2015 </li>
-  <li>undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>, academic year 2013-2014 </li>  
-  <li>undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>, academic year 2012-2013 </li>
+<li>Teaching assistant at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis in the undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>.</li>  
+
+<li>Teacher of Statistics and Data Analysis at <a href="http://bigdive.eu">BigDive</a>, a 5 week intensive training program for data scientists.</li>  
+ 
 </ul>
 
 <hr>
