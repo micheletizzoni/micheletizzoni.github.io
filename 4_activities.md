@@ -33,7 +33,6 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
   <li><a href="http://ccs2015.org/">CCS'15.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://www.cecam.org/workshop-2-1215.html">Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.</a> Berlin, Germany, July 2015</li>
   <li><a href="http://www.netsci2015.net">NetSci. International Conference on Network Science.</a> Zaragoza, Spain, June 2015 [poster]</li>
-  <li><a href="http://www.bigdive.eu/teachers/">Big Dive 4.</a> Torino, Italy, June 2015</li>
   <li><a href="http://www.eccs14.eu">European Conference on Complex Systems.</a> Lucca, Italy, September 2014</li>
   <li><a href="http://www.isi.it/the-future-of-public-health-in-digital-era-annecy-5-7-june-2014/">Future of Public Health in Digital Era.</a> Annecy, France, June 2014</li>
   <li><a href="http://www.epidemics.elsevier.com/">Epidemics.</a> Amsterdam, Netherlands, November 2013</li>
@@ -48,7 +47,7 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <li>Teaching assistant at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis in the undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>.</li>  
 
 <li>Teacher of Statistics and Data Analysis at <a href="http://bigdive.eu">BigDive</a>, a 5 week intensive training program for data scientists.</li>  
- 
+
 </ul>
 
 <hr>
