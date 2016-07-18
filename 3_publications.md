@@ -31,6 +31,12 @@ Check out my profile on [Google Scholar][scholar].
   </li>
   <br>
 
+  <li>Q. Zhang, C. Gioannini, D. Paolotti, N. Perra, D. Perrotta, M. Quaggiotto, <strong>M. Tizzoni</strong>, A. Vespignani<br>
+  <a href="http://link.springer.com/chapter/10.1007/978-3-319-23461-8_21">Social Data Mining and Seasonal Influenza Forecasts: The FluOutlook Platform</a><br>
+  In Joint European Conference on Machine Learning and Knowledge Discovery in Databases, pp. 237-240. Springer (2015)
+  </li>
+  <br>
+
   <li><strong>M. Tizzoni</strong>, K. Sun, D. Benusiglio, M. Karsai, N. Perra<br>
   <a href="http://www.nature.com/articles/srep15111">The scaling of human contacts and epidemic processes in metapopulation networks.</a><br>
   Scientific Reports 5, 15111 (2015)
