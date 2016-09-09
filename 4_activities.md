@@ -27,7 +27,7 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
-  <li><a href="http://complexnets2016.org">Complex Networks 2016.</a> Marseille, France, July 2015</li>
+  <li><a href="http://complexnets2016.org">Complex Networks 2016.</a> Marseille, France, July 2016</li>
   <li><a href="http://www.netsci2016.net">NetSci 2016.</a> Seoul, South Korea, May 2016</li>
   <li><a href="http://contagion15.weebly.com/">Contagion'15.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://ccs2015.org/">CCS'15.</a> Tempe, AZ, USA, September 2015</li>
