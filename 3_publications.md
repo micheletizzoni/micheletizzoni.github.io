@@ -14,8 +14,8 @@ Check out my profile on [Google Scholar][scholar].
 <ol reversed>
 
   <li>M. Beirò, A. Panisson, <strong>M. Tizzoni</strong>, C. Cattuto<br>
-  <a href="http://arxiv.org/abs/1601.04560">Predicting human mobility through the assimilation of social media traces into mobility models</a><br>
-  Submitted. (2016)
+  <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0092-2">Predicting human mobility through the assimilation of social media traces into mobility models</a><br>
+  EPJ Data Science 5,30 (2016)
   </li>
   <br>
 
