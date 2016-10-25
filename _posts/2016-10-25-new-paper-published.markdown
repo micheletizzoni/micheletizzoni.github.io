@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New paper on EPJ Data Science"
-date:  2016-07-01 10:00:00
+date:  2016-10-25 10:00:00
 author: Michele Tizzoni
 categories: news
 #cover:  "assets/instacode.png"
