@@ -13,6 +13,20 @@ Check out my profile on [Google Scholar][scholar].
 
 <ol reversed>
 
+
+
+  <li>D. Perrotta, <strong>M. Tizzoni</strong>, D. Paolotti<br>
+  <a href="">Using participatory Web-based surveillance data to improve seasonal influenza forecasting in Italy</a><br>
+  WWW'17 Proceedings of the 26th International Conference on World Wide Web (2017) [to appear]<br>
+  </li>
+  <br>
+
+  <li>Q. Zhang, N. Perra, D. Perrotta, D. Paolotti, <strong>M. Tizzoni</strong>, A. Vespignani<br>
+  <a href="">Forecasting seasonal influenza fusing digital indicators and mechanistic disease models</a><br>
+  WWW'17 Proceedings of the 26th International Conference on World Wide Web (2017) [to appear]<br>
+  </li>
+  <br>
+
   <li>M. Beirò, A. Panisson, <strong>M. Tizzoni</strong>, C. Cattuto<br>
   <a href="https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0092-2">Predicting human mobility through the assimilation of social media traces into mobility models</a><br>
   EPJ Data Science 5,30 (2016)<br>
