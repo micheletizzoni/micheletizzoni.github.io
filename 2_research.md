@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<img src="{{ site.baseurl }}assets/icons/compas.svg" title="Research Logo" class="profile" height="148" width="148">
+<img src="{{ site.baseurl }}assets/icons/search.svg" title="Research Logo" class="profile" height="148" width="148">
 
 My research interests revolve around the general field of <strong>infectious disease epidemiology</strong> with a special focus on <strong>mathematical modeling</strong> and the application of interdisciplinary methods, such as <strong>network theory</strong>, to the field.
 
