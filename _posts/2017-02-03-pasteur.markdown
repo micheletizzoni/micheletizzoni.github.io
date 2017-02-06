@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Seminar at Pasteur Institute"
+date:  2017-02-03 10:00:00
+author: Michele Tizzoni
+categories: news
+#cover:  "assets/instacode.png"
+---
+On February 3rd, 2017, I have given an invited talk at the Pasteur Institute. My presentation has been featured among the [SAMMBA seminar series](  
+https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/).
