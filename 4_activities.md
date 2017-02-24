@@ -27,6 +27,7 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
+  <li><a href="https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/">SAMMBA Seminar Series.</a> Institute Pasteur, Paris, France, February 2017</li>
   <li><a href="http://complexnets2016.org">Complex Networks 2016.</a> Marseille, France, July 2016</li>
   <li><a href="http://www.netsci2016.net">NetSci 2016.</a> Seoul, South Korea, May 2016</li>
   <li><a href="http://contagion15.weebly.com/">Contagion'15.</a> Tempe, AZ, USA, September 2015</li>
@@ -44,9 +45,9 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 
 <h2>Teaching</h2>
 <ul>
-<li>Teaching assistant at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis in the undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>.</li>  
+<li>I am teaching at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis in the undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>.</li>  
 
-<li>Teacher of Statistics and Data Analysis at <a href="http://bigdive.eu">BigDive</a>, a 5 week intensive training program for data scientists.</li>  
+<li>I have been teaching Statistics and Data Analysis at <a href="http://bigdive.eu">BigDive</a>, a 5 week intensive training program for data scientists.</li>  
 
 </ul>
 
