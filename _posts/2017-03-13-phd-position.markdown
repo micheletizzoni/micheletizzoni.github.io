@@ -15,9 +15,9 @@ The call for application can be found here: https://en.unito.it/sites/sten/files
 Interested candidates are invited [to send me their CV](http://micheletizzoni.github.io/contact/).
 Deadline for application: March 24, 2017.
 
-————
-PhD Project
-Title: Mathematical modeling and simulations of invasive meningococcal disease dynamics and vaccination strategies.
+————<br>
+PhD Project<br>
+Title: Mathematical modeling and simulations of invasive meningococcal disease dynamics and vaccination strategies.<br>
 
 Description:
 Invasive meningococcal diseases (IMD), as meningitis and septicemia, are rare but tremendous diseases, whose most common cause is a bacterium called N. meningitidis.
@@ -33,13 +33,25 @@ Moreover, the novel serogroup B vaccine Bexsero includes antigens that mimicry s
 Building upon previous works developed by the EDA team, the candidate will work to extend and improve the computational methods described in Argante et al. 2016, to tackle the above mentioned challenges. More specifically, the main goal of the project will be to develop a multi-strain model to characterize the different strains given their antigenic genotype or phenotype profiles and evaluate strain-based effectiveness in field study.
 
 The main research objectives will be:
-i. Development of stochastic mathematical models to computationally simulate the spread of meningococcal asymptomatic infection, the emergence of meningococcal invasive disease and the implementation of immunization interventions. The model will be able to account for multiple strains of N. meningitidis, demographic changes, between-humans contact patterns and contagion dynamics.
-ii. Use simulations to infer epidemiological quantities of interest, such as the probability of infection and recovery from meningococcal carriage and the risk of disease, as well as vaccinological quantities, to detect differential vaccine effects against genetically and/or antigenically different meningococcal strains and herd immunity effects.
-iii. Apply the methodologies to different real case studies, corresponding to mass immunization campaigns in different countries.
-iv. Extend the above methodologies to other infectious diseases and vaccination scenarios.
-
+<ol type="i">
+<li>Development of stochastic mathematical models to computationally simulate the spread of meningococcal asymptomatic infection, the emergence of meningococcal invasive disease and the implementation of immunization interventions. The model will be able to account for multiple strains of N. meningitidis, demographic changes, between-humans contact patterns and contagion dynamics.</li>
+<br>
+<li>Use simulations to infer epidemiological quantities of interest, such as the probability of infection and recovery from meningococcal carriage and the risk of disease, as well as vaccinological quantities, to detect differential vaccine effects against genetically and/or antigenically different meningococcal strains and herd immunity effects.</li>
+<br>
+<li>Apply the methodologies to different real case studies, corresponding to mass immunization campaigns in different countries.</li>
+<br>
+<li>
+Extend the above methodologies to other infectious diseases and vaccination scenarios.</li>
+<br>
+</ol>
 References:
-•	Argante L, Tizzoni M, Medini D - Fast and accurate dynamic estimation of field effectiveness of meningococcal vaccines – BMC Med. Jun 2016;
-•	Trotter CL,  Gay NJ, Edmunds WJ - Dynamic Models of Meningococcal Carriage Disease and the Impact of Serogroup C Conjugate Vaccination – Am J Epidemol. 2005;
-•	Christensen H, Hickman M, et al. - Introducing vaccination against serogroup B meningococcal disease: an economic and mathematical modelling study of potential impact. – Vaccine  2013;
-•	Donnelly J, Medini D, et al. - Qualitative and quantitative assessment of meningococcal antigens to evaluate the potential strain coverage of protein-based vaccines. – PNAS 2010;
+<ul>
+<li>Argante L, Tizzoni M, Medini D - Fast and accurate dynamic estimation of field effectiveness of meningococcal vaccines – BMC Med. Jun 2016;</li>
+<br>
+<li>Trotter CL,  Gay NJ, Edmunds WJ - Dynamic Models of Meningococcal Carriage Disease and the Impact of Serogroup C Conjugate Vaccination – Am J Epidemol. 2005;</li>
+<br>
+<li>Christensen H, Hickman M, et al. - Introducing vaccination against serogroup B meningococcal disease: an economic and mathematical modelling study of potential impact. – Vaccine  2013;</li>
+<br>
+<li>Donnelly J, Medini D, et al. - Qualitative and quantitative assessment of meningococcal antigens to evaluate the potential strain coverage of protein-based vaccines. – PNAS 2010;</li>
+<br>
+</ul>
