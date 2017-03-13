@@ -18,9 +18,9 @@ Deadline for application: <b>March 24, 2017</b>.
 
 ————<br>
 PhD Project<br>
-Title: Mathematical modeling and simulations of invasive meningococcal disease dynamics and vaccination strategies.<br>
+<b>Mathematical modeling and simulations of invasive meningococcal disease dynamics and vaccination strategies</b>
+<br>
 
-Description:
 Invasive meningococcal diseases (IMD), as meningitis and septicemia, are rare but tremendous diseases, whose most common cause is a bacterium called N. meningitidis.
 IMD is a vaccine preventable disease, however, vaccines targeting serogroup B meningococcal strains have been developed only recently, and they represent a completely new type of vaccine. Evaluating their effectiveness when employed in immunization campaigns is challenging, but of major importance for vaccine research and development and for public health.
 
