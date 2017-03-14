@@ -9,7 +9,7 @@ categories: news
 I am looking for a prospective PhD student in computational modeling of infectious disease transmission.
 The position is funded by GSK Vaccines and the candidate will work between ISI Foundation in Torino, under my supervision, and the Exploratory Data Analytics (EDA) team of GSK in Siena.
 
-The candidate will join the PhD program in Complex Systems for Life Sciences of the University of Torino.
+The assignment of the scholarship is conditional on the admission to the PhD program in Complex Systems for Life Sciences of the University of Torino.
 The call for application [can be found here](https://en.unito.it/sites/sten/files/call_phd_33.pdf)
 
 Interested candidates are invited [to send me their CV](http://micheletizzoni.github.io/contact/).
