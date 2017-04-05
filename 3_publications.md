@@ -15,13 +15,13 @@ Check out my profile on [Google Scholar][scholar].
 
   <li>D. Perrotta, <strong>M. Tizzoni</strong>, D. Paolotti<br>
   <a href="http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p303.pdf">Using participatory Web-based surveillance data to improve seasonal influenza forecasting in Italy</a><br>
-  WWW'17 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
+  WWW2017 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
   </li>
   <br>
 
   <li>Q. Zhang, N. Perra, D. Perrotta, D. Paolotti, <strong>M. Tizzoni</strong>, A. Vespignani<br>
   <a href="http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p311.pdf">Forecasting seasonal influenza fusing digital indicators and mechanistic disease models</a><br>
-  WWW'17 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
+  WWW2017 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
   </li>
   <br>
 
