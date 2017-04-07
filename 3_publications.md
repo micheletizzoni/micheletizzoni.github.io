@@ -22,6 +22,7 @@ Check out my profile on [Google Scholar][scholar].
   <li>Q. Zhang, N. Perra, D. Perrotta, D. Paolotti, <strong>M. Tizzoni</strong>, A. Vespignani<br>
   <a href="http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p311.pdf">Forecasting seasonal influenza fusing digital indicators and mechanistic disease models</a><br>
   WWW2017 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
+  <strong>Best Paper Honorable Mention Award</strong>
   </li>
   <br>
 
