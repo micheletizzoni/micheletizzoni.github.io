@@ -13,6 +13,12 @@ Check out my profile on [Google Scholar][scholar].
 
 <ol reversed>
 
+  <li>C. Panigutti, <strong>M. Tizzoni</strong>, P. Bajardi, Z. Smoreda, V. Colizza <br>
+  <a href="">Assessing the use of mobile phone data to describe recurrent mobility patterns in spatial epidemic models </a><br>
+  Royal Society Open Science (2017)<br>
+  </li>
+  <br>
+
   <li>D. Perrotta, <strong>M. Tizzoni</strong>, D. Paolotti<br>
   <a href="http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p303.pdf">Using participatory Web-based surveillance data to improve seasonal influenza forecasting in Italy</a><br>
   WWW2017 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
