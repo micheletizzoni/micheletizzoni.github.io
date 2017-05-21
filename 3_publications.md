@@ -16,6 +16,7 @@ Check out my profile on [Google Scholar][scholar].
   <li>C. Panigutti, <strong>M. Tizzoni</strong>, P. Bajardi, Z. Smoreda, V. Colizza <br>
   <a href="http://rsos.royalsocietypublishing.org/content/4/5/160950.figures-only">Assessing the use of mobile phone data to describe recurrent mobility patterns in spatial epidemic models </a><br>
   Royal Society Open Science 4,160950 (2017)<br>
+  <br>
   Press coverage: <a href="http://www.radiopopolare.it/podcast/le-oche-di-ven-1905/">Radio Popolare, Le Oche (In Italian).</a><br>
   </li>
   <br>
@@ -29,8 +30,10 @@ Check out my profile on [Google Scholar][scholar].
   <li>Q. Zhang, N. Perra, D. Perrotta, D. Paolotti, <strong>M. Tizzoni</strong>, A. Vespignani<br>
   <a href="http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p311.pdf">Forecasting seasonal influenza fusing digital indicators and mechanistic disease models</a><br>
   WWW2017 Proceedings of the 26th International Conference on World Wide Web (2017)<br>
-  <strong>Best Paper Honorable Mention Award</strong>
-  Press coverage: <a href="http://money.cnn.com/2017/05/11/technology/tracking-flu-twitter/index.html">CNN Tech: How Twitter can predict flu outbreaks 6 weeks in advance</a><br>
+  <strong>Best Paper Honorable Mention Award</strong><br>
+  <br>
+  Press coverage: <br>
+  <a href="http://money.cnn.com/2017/05/11/technology/tracking-flu-twitter/index.html">CNN Tech: How Twitter can predict flu outbreaks 6 weeks in advance</a><br>
   <a href="http://www.nbcnews.com/mach/technology/tweet-you-just-sent-could-help-predict-flu-outbreak-n761226">NBC News: That Tweet You Just Sent Could Help Predict a Flu Outbreak</a><br>
   </li>
   <br>
