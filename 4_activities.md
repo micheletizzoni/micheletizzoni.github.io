@@ -7,17 +7,20 @@ permalink: /activities/
 <img src="{{ site.baseurl }}assets/icons/tactics.svg" title="Research Logo" class="profile" height="148" width="148">
 
 <h2>Projects</h2>
-I am currently a team member of the following research projects:
+
+Currently, I am busy in developing new research projects in the area of <a href="https://datafordevelopment.it">Data for Good</a>, mostly in the form of <a href="https://datacollaboratives.org">data collaboratives</a>
+
+I am a team member of the following research projects:
 <ul>
-  <li><a href="https://fluoutlook.org">FluOutlook</a>, a web platform for the exploration of seasonal influenza forecasts. </li>
+  <li><a href="https://fluoutlook.org">FluOutlook</a>, a web platform for the exploration of data-driven seasonal influenza forecasts. </li>
   <li><a href="https://gleamviz.org">GLEAM</a>, a large-scale data driven epidemic model for the forecasts of pandemic spread. </li>
   <li><a href="https://Sociopatterns.org">SocioPatterns</a>, an interdisciplinary research collaboration that adopts sensing methodologies to measure social dynamics and coordinated human activity.</li>
 </ul>
 
-I have been supported by the following EU grants:
+In the past, I have been supported by the following EC funded grants:
 <ul>
-  <li><a href="https://www.cimplex-project.eu/">Cimplex</a> </li>
-  <li><a href="http://www.multiplexproject.eu/">Multiplex</a> </li>
+  <li><a href="https://www.cimplex-project.eu/">CIMPLEX</a> </li>
+  <li><a href="http://www.multiplexproject.eu/">MULTIPLEX</a> </li>
   <li><a href="http://epifor.eu/">EpiFor</a></li>
 </ul>
 
