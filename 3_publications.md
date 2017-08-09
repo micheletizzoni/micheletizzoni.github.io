@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-<img src="{{ site.baseurl }}assets/icons/pencil.svg" title="Research Logo" class="profile" height="148" width="148">
+<img src="{{ site.baseurl }}/assets/icons/pencil.svg" title="Research Logo" class="profile" height="148" width="148">
 
 
 Check out my profile on [Google Scholar][scholar].

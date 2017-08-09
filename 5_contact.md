@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-<img src="{{ site.baseurl }}assets/icons/letter.svg" title="Contact Logo" class="profile" height="148" width="148">
+<img src="{{ site.baseurl }}/assets/icons/letter.svg" title="Contact Logo" class="profile" height="148" width="148">
 
 <ul class="default">
     <li> email: michele - dot - tizzoni - at - isi - dot - it </li>

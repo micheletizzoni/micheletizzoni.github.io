@@ -4,7 +4,7 @@ title: Activities
 permalink: /activities/
 ---
 
-<img src="{{ site.baseurl }}assets/icons/tactics.svg" title="Research Logo" class="profile" height="148" width="148">
+<img src="{{ site.baseurl }}/assets/icons/tactics.svg" title="Research Logo" class="profile" height="148" width="148">
 
 <h2>Projects</h2>
 
