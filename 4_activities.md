@@ -8,7 +8,7 @@ permalink: /activities/
 
 <h2>Projects</h2>
 
-Currently, I am busy in developing new research projects in the area of <a href="https://datafordevelopment.it">Data for Good</a>, mostly in the form of <a href="https://datacollaboratives.org">data collaboratives</a>
+Currently, I am busy in developing new research projects in the area of <a href="https://datafordevelopment.it">Data for Good</a>, mostly in the form of <a href="https://datacollaboratives.org">data collaboratives</a>.
 
 I am a team member of the following research projects:
 <ul>
