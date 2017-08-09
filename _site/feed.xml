@@ -4,19 +4,22 @@
     <title>Michele Tizzoni</title>
     <description>Based on the Centrarium template by Ben Centra.&lt;br&gt;&lt;/br&gt;Header image by Jean-Pierre Dalbéra.&lt;br&gt;&lt;/br&gt; All the content CC unless otherwise noted.
 </description>
-    <link>http://micheletizzoni.github.io//</link>
-    <atom:link href="http://micheletizzoni.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Aug 2015 16:48:08 +0200</pubDate>
-    <lastBuildDate>Wed, 26 Aug 2015 16:48:08 +0200</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 Aug 2017 22:46:24 +0200</pubDate>
+    <lastBuildDate>Wed, 09 Aug 2017 22:46:24 +0200</lastBuildDate>
+    <generator>Jekyll v3.5.1</generator>
     
       <item>
-        <title>RAPIDD workshop</title>
-        <description>&lt;p&gt;From September 6 to September 9, I will be in Cambridge, UK, to join a RAPIDD workshop on Gravity Models, Disease Spread and Spatial Scales.&lt;/p&gt;
+        <title>New paper in Royal Society Open Science</title>
+        <description>&lt;p&gt;The paper &lt;a href=&quot;http://rsos.royalsocietypublishing.org/content/4/5/160950&quot;&gt;Assessing the use of mobile phone data to describe recurrent mobility patterns in spatial epidemic models&lt;/a&gt;, which I co-authored with Cecilia Panigutti, Paolo Bajardi, Zbigniew Smoreda and Vittoria Colizza, has been published by the Royal Society Open Science.&lt;/p&gt;
+
+&lt;p&gt;In this study, we extensively tested with numerical simulations to what degree epidemic models based on mobile phone data can match results based on census data.
+We found that similarity of simulated epidemics is significantly correlated to connectivity, traffic and population size of the seeding nodes, suggesting that the adequacy of mobile phone data for infectious disease models becomes higher when epidemics spread between highly connected and heavily populated locations, such as large urban areas.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Aug 2015 10:00:00 +0200</pubDate>
-        <link>http://micheletizzoni.github.io//news/2015/08/25/RAPIDD-workshop.html</link>
-        <guid isPermaLink="true">http://micheletizzoni.github.io//news/2015/08/25/RAPIDD-workshop.html</guid>
+        <pubDate>Wed, 17 May 2017 12:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2017/05/17/best-paper-www17.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2017/05/17/best-paper-www17.html</guid>
         
         
         <category>news</category>
@@ -24,13 +27,12 @@
       </item>
     
       <item>
-        <title>New manuscript</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://arxiv.org/abs/1411.7310&quot;&gt;The Scaling of Human Contacts in Reaction-Diffusion Processes on Heterogeneous Metapopulation Networks
-&lt;/a&gt; by Tizzoni M, Sun K, Benusiglio D, Karsai M, Perra N.&lt;/p&gt;
+        <title>Best paper honorable mention award</title>
+        <description>&lt;p&gt;The paper &lt;a href=&quot;http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p311.pdf&quot;&gt;Forecasting Seasonal Influenza Fusing Digital Indicators and a Mechanistic Disease Model&lt;/a&gt; has been awarded the Best Paper Honorable Mention at the &lt;a href=&quot;http://www.www2017.com.au&quot;&gt;26th International Conference on World Wide Web WWW2017&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 30 Jul 2015 10:00:00 +0200</pubDate>
-        <link>http://micheletizzoni.github.io//news/2015/07/30/new-manuscript.html</link>
-        <guid isPermaLink="true">http://micheletizzoni.github.io//news/2015/07/30/new-manuscript.html</guid>
+        <pubDate>Fri, 07 Apr 2017 12:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2017/04/07/paper-RSOS.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2017/04/07/paper-RSOS.html</guid>
         
         
         <category>news</category>
@@ -38,13 +40,164 @@
       </item>
     
       <item>
-        <title>CECAM workshop</title>
-        <description>&lt;p&gt;I presented a contributed talk titled “Competing epidemic processes on temporal networks” at the CECAM workshop: &lt;a href=&quot;http://www.cecam.org/workshop-2-1215.html&quot;&gt;Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.
-&lt;/a&gt;.&lt;/p&gt;
+        <title>PhD position available</title>
+        <description>&lt;p&gt;I am looking for a prospective PhD student in computational modeling of infectious disease transmission.
+The position is funded by GSK Vaccines and the candidate will work between ISI Foundation in Torino, under my supervision, and the Exploratory Data Analytics (EDA) team of GSK in Siena.&lt;/p&gt;
+
+&lt;p&gt;The assignment of the scholarship is conditional on the admission to the PhD program in Complex Systems for Life Sciences of the University of Torino.
+The call for application &lt;a href=&quot;https://en.unito.it/sites/sten/files/call_phd_33.pdf&quot;&gt;can be found here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Interested candidates are invited &lt;a href=&quot;http://micheletizzoni.github.io/contact/&quot;&gt;to send me their CV&lt;/a&gt;.
+&lt;br /&gt;
+Deadline for application: &lt;b&gt;March 24, 2017&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;————&lt;br /&gt;
+PhD Project&lt;br /&gt;
+&lt;b&gt;Mathematical modeling and simulations of invasive meningococcal disease dynamics and vaccination strategies&lt;/b&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Invasive meningococcal diseases (IMD), as meningitis and septicemia, are rare but tremendous diseases, whose most common cause is a bacterium called N. meningitidis.
+IMD is a vaccine preventable disease, however, vaccines targeting serogroup B meningococcal strains have been developed only recently, and they represent a completely new type of vaccine. Evaluating their effectiveness when employed in immunization campaigns is challenging, but of major importance for vaccine research and development and for public health.&lt;/p&gt;
+
+&lt;p&gt;Mathematical models of meningococcal asymptomatic carriage, contagion, disease emergence and vaccination have been developed to evaluate impact of mass immunization campaigns.
+The Exploratory Data Analytics (EDA) team has developed a novel reverse approach based on a computational epidemic model of meningococcal disease transmission combined with real-time surveillance data (Argante L et al. 2016). This model-based inferential methodology has been proven to provide precise estimates of vaccine effectiveness in field immunization studies, disentangling the direct vaccine effect in protecting from IMD and the herd immunity effect.&lt;/p&gt;
+
+&lt;p&gt;The use of computer simulations can provide novel insights into the extremely high degree of complexity that characterizes the epidemiology of meningococcal disease, which is due to several factors: i) the meningococcal strains diversity and their continuous evolutionary adaptation to humans, ii) the complexity of the human immune systems, iii) the impact of different human habits in different countries and settings (e.g. rural vs. metropolitan areas) that drastically influence individual contact patterns and the contagion processes. These factors are especially relevant when considering a pathogen like N. meningitidis that is asymptomatically carried by up to 25% of the population, depending on age.&lt;/p&gt;
+
+&lt;p&gt;Moreover, the novel serogroup B vaccine Bexsero includes antigens that mimicry surface-exposed meningococcal proteins, to protect from the most prevalent world-wide circulating serogroup B strains, but nevertheless characterized by high levels of variability. A major challenge is faced when evaluating the fraction and the degree of coverage conferred by the Bexsero vaccine against meningococcal strains of a given country.&lt;/p&gt;
+
+&lt;p&gt;Building upon previous works developed by the EDA team, the candidate will work to extend and improve the computational methods described in Argante et al. 2016, to tackle the above mentioned challenges. More specifically, the main goal of the project will be to develop a multi-strain model to characterize the different strains given their antigenic genotype or phenotype profiles and evaluate strain-based effectiveness in field study.&lt;/p&gt;
+
+&lt;p&gt;The main research objectives will be:&lt;/p&gt;
+&lt;ol type=&quot;i&quot;&gt;
+&lt;li&gt;Development of stochastic mathematical models to computationally simulate the spread of meningococcal asymptomatic infection, the emergence of meningococcal invasive disease and the implementation of immunization interventions. The model will be able to account for multiple strains of N. meningitidis, demographic changes, between-humans contact patterns and contagion dynamics.&lt;/li&gt;
+&lt;br /&gt;
+&lt;li&gt;Use simulations to infer epidemiological quantities of interest, such as the probability of infection and recovery from meningococcal carriage and the risk of disease, as well as vaccinological quantities, to detect differential vaccine effects against genetically and/or antigenically different meningococcal strains and herd immunity effects.&lt;/li&gt;
+&lt;br /&gt;
+&lt;li&gt;Apply the methodologies to different real case studies, corresponding to mass immunization campaigns in different countries.&lt;/li&gt;
+&lt;br /&gt;
+&lt;li&gt;
+Extend the above methodologies to other infectious diseases and vaccination scenarios.&lt;/li&gt;
+&lt;br /&gt;
+&lt;/ol&gt;
+&lt;p&gt;References:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Argante L, Tizzoni M, Medini D - Fast and accurate dynamic estimation of field effectiveness of meningococcal vaccines – BMC Med. Jun 2016;&lt;/li&gt;
+&lt;br /&gt;
+&lt;li&gt;Trotter CL,  Gay NJ, Edmunds WJ - Dynamic Models of Meningococcal Carriage Disease and the Impact of Serogroup C Conjugate Vaccination – Am J Epidemol. 2005;&lt;/li&gt;
+&lt;br /&gt;
+&lt;li&gt;Christensen H, Hickman M, et al. - Introducing vaccination against serogroup B meningococcal disease: an economic and mathematical modelling study of potential impact. – Vaccine  2013;&lt;/li&gt;
+&lt;br /&gt;
+&lt;li&gt;Donnelly J, Medini D, et al. - Qualitative and quantitative assessment of meningococcal antigens to evaluate the potential strain coverage of protein-based vaccines. – PNAS 2010;&lt;/li&gt;
+&lt;br /&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Sat, 18 Jul 2015 10:00:00 +0200</pubDate>
-        <link>http://micheletizzoni.github.io//news/2015/07/18/CECAM-workshop.html</link>
-        <guid isPermaLink="true">http://micheletizzoni.github.io//news/2015/07/18/CECAM-workshop.html</guid>
+        <pubDate>Mon, 13 Mar 2017 11:00:00 +0100</pubDate>
+        <link>http://localhost:4000//news/2017/03/13/phd-position.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2017/03/13/phd-position.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Seminar at Pasteur Institute</title>
+        <description>&lt;p&gt;On February 3rd, 2017, I have given an invited talk at the Pasteur Institute. My presentation has been featured among the &lt;a href=&quot;https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/&quot;&gt;SAMMBA seminar series&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Feb 2017 11:00:00 +0100</pubDate>
+        <link>http://localhost:4000//news/2017/02/03/pasteur.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2017/02/03/pasteur.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Two accepted papers to WWW'17</title>
+        <description>&lt;p&gt;Two papers which I have co-authored have been accepted to &lt;a href=&quot;http://www.www17.com.au&quot;&gt;WWW’17 the 26th International Conference on World Wide Web&lt;/a&gt;, that will take place in Perth, Australia, on April 3-7 2017.
+Both papers have been accepted in the newly introduced &lt;a href=&quot;http://www2017.com.au/call-for-papers/computational-health.php&quot;&gt;Computational Health track&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Dec 2016 11:00:00 +0100</pubDate>
+        <link>http://localhost:4000//news/2016/12/23/www17.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2016/12/23/www17.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>New paper on EPJ Data Science</title>
+        <description>&lt;p&gt;The paper &lt;a href=&quot;https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0092-2&quot;&gt;“Predicting human mobility through the assimilation of social media traces into mobility models”
+&lt;/a&gt; which I co-authored together with M. Beirò, A. Panisson and C. Cattuto, has been published on EPJ Data Science.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Oct 2016 12:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2016/10/25/new-paper-published.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2016/10/25/new-paper-published.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Two new publications</title>
+        <description>&lt;p&gt;Two papers I have co-authored have been recently published: &lt;a href=&quot;http://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-016-0642-2&quot;&gt;“Fast and accurate dynamic estimation of field effectiveness of meningococcal vaccines”
+&lt;/a&gt; by Argante L, Tizzoni M and Medini D.,
+and
+&lt;a href=&quot;http://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-016-0084-2&quot;&gt;“Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors”
+&lt;/a&gt; by Kiti, M et al.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 01 Jul 2016 12:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2016/07/01/two-new-publications.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2016/07/01/two-new-publications.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>New manuscript on Arxiv</title>
+        <description>&lt;p&gt;Check out the manuscript &lt;a href=&quot;http://arxiv.org/abs/1601.04560&quot;&gt;“Predicting human mobility through the assimilation of social media traces into mobility models”
+&lt;/a&gt; by Beirò M, Panisson A, Tizzoni M and Cattuto C.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Jan 2016 09:00:00 +0100</pubDate>
+        <link>http://localhost:4000//news/2016/01/19/new-manuscript-arxiv.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2016/01/19/new-manuscript-arxiv.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>New publication</title>
+        <description>&lt;p&gt;The paper &lt;a href=&quot;http://www.nature.com/articles/srep15111&quot;&gt;“The Scaling of Human Contacts and Epidemic Processes in Metapopulation Networks”
+&lt;/a&gt; has been published by Scientific Reports.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Oct 2015 10:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2015/10/19/new-publication.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2015/10/19/new-publication.html</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>CCS 15</title>
+        <description>&lt;p&gt;I will be in Tempe, AZ, to attend the &lt;a href=&quot;http://ccs2015.org&quot;&gt;Conference of Complex Systems 2015&lt;/a&gt; from September 28 to October 2, and present two talks:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&quot;The scaling of human contacts and epidemic processes in metapopulation networks&quot;&lt;/li&gt;
+&lt;li&gt;&quot;Quantifying social contacts in a household setting of rural Kenya using wearable proximity sensors&quot; in the satellite meeting &lt;a href=&quot;http://contagion15.weebly.com/&quot;&gt;Contagion&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 08 Sep 2015 10:00:00 +0200</pubDate>
+        <link>http://localhost:4000//news/2015/09/08/CCS-15.html</link>
+        <guid isPermaLink="true">http://localhost:4000//news/2015/09/08/CCS-15.html</guid>
         
         
         <category>news</category>
