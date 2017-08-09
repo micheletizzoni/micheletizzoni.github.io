@@ -14,7 +14,7 @@ Check out my profile on [Google Scholar][scholar].
 <ol reversed>
 
   <li>C. Panigutti, <strong>M. Tizzoni</strong>, P. Bajardi, Z. Smoreda, V. Colizza <br>
-  <a href="http://rsos.royalsocietypublishing.org/content/4/5/160950">Assessing the use of mobile phone data to describe recurrent mobility patterns in spatial epidemic models </a><br>
+  <a href="http://rsos.royalsocietypublishing.org/content/4/5/160950/">Assessing the use of mobile phone data to describe recurrent mobility patterns in spatial epidemic models </a><br>
   Royal Society Open Science 4,160950 (2017)<br>
   <br>
   Press coverage: <a href="http://www.radiopopolare.it/podcast/le-oche-di-ven-1905/">Radio Popolare, Le Oche (In Italian).</a><br>
