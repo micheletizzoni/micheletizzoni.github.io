@@ -130,4 +130,4 @@ Check out my profile on [Google Scholar][scholar].
 
 </ol>
 
-[scholar]: https://scholar.google.it/citations?user=1v2Ots0AAAAJ&hl=en
+[scholar]: https://scholar.google.it/citations?user=92m8xL8AAAAJ&hl=en

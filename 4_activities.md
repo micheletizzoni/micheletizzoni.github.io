@@ -58,5 +58,6 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 
 <h2>Professional Service</h2>
 <ul>
-  <li>elected council member of the  <a href="http://cssociety.org/home">Complex Systems Society</a> </li>
+  <li>Member of the Editorial Board of <a href="https://www.nature.com/sdata/about/editorial-board"></a> Scientific Data</li>
+  <li>Elected council member of the  <a href="http://cssociety.org/home">Complex Systems Society (2015-2017)</a> </li>
 </ul>
