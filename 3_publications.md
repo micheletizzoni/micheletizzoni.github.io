@@ -7,7 +7,7 @@ permalink: /publications/
 <img src="{{ site.baseurl }}/assets/icons/pencil.svg" title="Research Logo" class="profile" height="148" width="148">
 
 
-Check out my profile on [Google Scholar][scholar].
+Check out my profile on [Google Scholar](https://scholar.google.it/citations?user=92m8xL8AAAAJ&hl=it).
 
 <hr>
 
