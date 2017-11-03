@@ -13,6 +13,11 @@ Check out my profile on [Google Scholar][scholar].
 
 <ol reversed>
 
+  <li>J. S. Brownstein, S. Chu, A. Marathe, M. V. Marathe, A. T. Nguyen,  D. Paolotti, N. Perra, D. Perrotta, M. Santillana, S. Swarup, <strong>M. Tizzoni</strong>, A. Vespignani, A. K. S. Vullikanti, M. L. Wilson, Q. Zhang <br>
+  <a href="http://publichealth.jmir.org/2017/4/e83/">Combining Participatory Influenza Surveillance with Modeling and Forecasting: Three Alternative Approaches</a><br>
+  JMIR Public Health and Surveillance 3(4):e83 (2017)<br>
+  <br>
+
   <li>C. Panigutti, <strong>M. Tizzoni</strong>, P. Bajardi, Z. Smoreda, V. Colizza <br>
   <a href="http://rsos.royalsocietypublishing.org/content/4/5/160950/">Assessing the use of mobile phone data to describe recurrent mobility patterns in spatial epidemic models </a><br>
   Royal Society Open Science 4,160950 (2017)<br>
