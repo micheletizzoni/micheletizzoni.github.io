@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.url }}/assets/talk_pic.jpeg" title="Profile Picture" class="profile">
+<img src="{{ site.url }}/assets/talk_pic.jpg" title="Profile Picture" class="profile">
 
 
 I am currently Principal Researcher at the [Institute for Scientific Interchange (ISI) Foundation](http://www.isi.it).
