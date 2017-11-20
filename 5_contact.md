@@ -20,7 +20,7 @@ permalink: /contact/
 <h3>Office address</h3>
 <ul class="default">
     <li> <a href="http://www.isi.it">ISI Foundation</a> </li>
-    <li>via Alassio 11/C 10126 Torino Italy</li>
+    <li>via Chisola 5 10126 Torino Italy</li>
     <li>tel. +39 011 660 3090</li>
 </ul>
 

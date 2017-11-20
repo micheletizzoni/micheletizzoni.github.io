@@ -134,5 +134,3 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 
 </ol>
-
-[scholar]: https://scholar.google.it/citations?user=92m8xL8AAAAJ&hl=en
