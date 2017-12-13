@@ -14,7 +14,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 <ol reversed>
 
   <li>L. Ozella, F. Gesualdo, <strong>M. Tizzoni</strong>, C. Rizzo, E. Pandolfi, I. Campagna, A. E. Tozzi, C. Cattuto <br>
-  <a href="https://www.biorxiv.org/content/early/2017/12/13/232355.article-info"></a>Close encounters between infants and household members measured through wearable proximity sensors<br>
+  <a href="https://www.biorxiv.org/content/early/2017/12/13/232355.article-info">Close encounters between infants and household members measured through wearable proximity sensors</a><br>
   bioRxiv: 232355 (2017)<br>
   <br>
 
