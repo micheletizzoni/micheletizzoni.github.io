@@ -13,6 +13,11 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
+  <li>L. Ozella, F. Gesualdo, <strong>M. Tizzoni</strong>, C. Rizzo, E. Pandolfi, I. Campagna, A. E. Tozzi, C. Cattuto <br>
+  <a href="https://www.biorxiv.org/content/early/2017/12/13/232355.article-info"></a>Close encounters between infants and household members measured through wearable proximity sensors<br>
+  bioRxiv: 232355 (2017)<br>
+  <br>
+
   <li>J. S. Brownstein, S. Chu, A. Marathe, M. V. Marathe, A. T. Nguyen,  D. Paolotti, N. Perra, D. Perrotta, M. Santillana, S. Swarup, <strong>M. Tizzoni</strong>, A. Vespignani, A. K. S. Vullikanti, M. L. Wilson, Q. Zhang <br>
   <a href="http://publichealth.jmir.org/2017/4/e83/">Combining Participatory Influenza Surveillance with Modeling and Forecasting: Three Alternative Approaches</a><br>
   JMIR Public Health and Surveillance 3(4):e83 (2017)<br>
