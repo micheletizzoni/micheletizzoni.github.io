@@ -17,7 +17,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0198733">Close encounters between infants and household members measured through wearable proximity sensors</a><br>
   PLOS ONE  13(6):e0198733 (2018)<br>
   <br>
-  Paper data [available on Zenodo](https://zenodo.org/record/1255839#.WxmPF1OFPdQ).
+  Paper data are <a href="https://zenodo.org/record/1255839#.WxmPF1OFPdQ">available on Zenodo</a>.
   </li>
   <br>
 
