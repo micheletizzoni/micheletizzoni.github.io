@@ -10,4 +10,4 @@ I am organizing the first edition of the meeting [Networks in Disease Ecology](h
 The meeting is a Satellite of the [NetSci 2018](https://www.netsci2018.com/) conference which will be held in Paris, France, on June 11-15 2018.
 
 The goal of the meeting is to gather an interdisciplinary community of scholars working on network science and disease ecology, and more specifically on modeling the interacting dynamics of disease pathogens, hosts, and the environment.
-The meeting will feature five keynotes by exceptional scholars coming from both the ecology and the network science communities.
+The meeting will feature five keynotes by exceptional scholars coming from both the ecology and the network science communities. 
