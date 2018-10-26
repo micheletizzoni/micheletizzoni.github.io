@@ -18,6 +18,10 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   Journal of Medical Internet Research (2018)<br>
   <br>
 
+  <li>L. Ozella, L. Gauvin, L. Carenzo, M. Quaggiotto, P.L. Ingrassia, <strong>M. Tizzoni</strong>, A. Panisson, D. Colombo, A. Sapienza, K. Kalimeri, F. Della Corte, C. Cattuto<br>
+  <a href="https://arxiv.org/abs/1809.06887">Wearable proximity sensors for monitoring a mass casualty incident exercise: a feasibility study</a><br>
+  arXiv 1809.06887 (2018)
+
   <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
   <a href="https://www.biorxiv.org/content/early/2018/06/17/346411">The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic</a><br>
   bioRxiv 346411 (2018)<br>
