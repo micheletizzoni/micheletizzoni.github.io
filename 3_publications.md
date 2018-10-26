@@ -13,6 +13,10 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
+  <li>N. Adler, C. Cattuto, K. Kalimeri, D. Paolotti, <strong>M. Tizzoni</strong>, S. Verhulst, E. Yom-Tov, A. Young<br>
+  <a href="https://preprints.jmir.org/preprint/10179/accepted">Beyond demographics: How search engine data can enhance the understanding of determinants of suicide in India and inform prevention</a><br>
+  Journal of Medical Internet Research (2018)<br>
+  <br>
 
   <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
   <a href="https://www.biorxiv.org/content/early/2018/06/17/346411">The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic</a><br>
