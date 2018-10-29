@@ -30,11 +30,17 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
-  <li><a href="https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/">SAMMBA Seminar Series.</a> Institute Pasteur, Paris, France, February 2017</li>
+  <li><a href="https://collab2018.weebly.com">Collective Animal Behavior, CCS'18 Satellite Workshop,</a> Thessaloniki, Greece, September 2018 [invited]</li>
+  <li><a href="https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase#September_2018">Wikimedia Research Showcase</a> San Francisco, CA, USA, September 2018 [invited]</li>
+  <li><a href="http://www.epidemiologia.it/convegno-aie-di-primavera-2018/">AIE Spring Meeting</a> Rome, Italy, March 2018 [invited]</li>
+  <li><a href="http://inserm.fr">INSERM Research Seminars</a> Paris, France, November 2017 [invited]</li>
+  <li><a href="http://ccs2017.org/">Conference on Complex Systems.</a> Cancún, Mexico, September 2017</li>
+  <li><a href="https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/">SAMMBA Seminar Series.</a> Institute Pasteur, Paris, France, February 2017 [invited]</li>
+  <li><a href="">International Workshop "Assessing the Threats to Public Health".</a> Doha, Qatar, November 2016 [invited]</li>
   <li><a href="http://complexnets2016.org">Complex Networks 2016.</a> Marseille, France, July 2016</li>
   <li><a href="http://www.netsci2016.net">NetSci 2016.</a> Seoul, South Korea, May 2016</li>
   <li><a href="http://contagion15.weebly.com/">Contagion'15.</a> Tempe, AZ, USA, September 2015</li>
-  <li><a href="http://ccs2015.org/">CCS'15.</a> Tempe, AZ, USA, September 2015</li>
+  <li><a href="http://ccs2015.org/">Conference on Complex Systems.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://www.cecam.org/workshop-2-1215.html">Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.</a> Berlin, Germany, July 2015</li>
   <li><a href="http://www.netsci2015.net">NetSci. International Conference on Network Science.</a> Zaragoza, Spain, June 2015 [poster]</li>
   <li><a href="http://www.eccs14.eu">European Conference on Complex Systems.</a> Lucca, Italy, September 2014</li>
@@ -48,7 +54,7 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 
 <h2>Teaching</h2>
 <ul>
-<li>I am teaching at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis in the undergraduate course on <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>.</li>  
+<li>I am teaching at the <a href="http://fisica.campusnet.unito.it">Physics Department of the University of Torino</a>. I lecture the students about using Python for complex networks analysis in the undergraduate course <a href="http://fisica-sc.campusnet.unito.it/do/corsi.pl/Show?_id=4ef1">Complexity in Social Systems</a>.</li>  
 
 <li>I have been teaching Statistics and Data Analysis at <a href="http://bigdive.eu">BigDive</a>, a 5 week intensive training program for data scientists.</li>  
 
@@ -60,5 +66,5 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <ul>
   <li>Member of the Editorial Board of <a href="https://www.nature.com/sdata/about/editorial-board#SU"> Scientific Data</a></li>
   <li>Member of the Editorial Board of <a href="https://journals.plos.org/plosone/static/editorial-board"> PLOS ONE</a></li>
-  <li>Elected council member of the  <a href="http://cssociety.org/home">Complex Systems Society (2015-2017)</a> </li>
+  <li>Elected council member of the  <a href="https://cssociety.org/about-us/council">Complex Systems Society</a> (2015-2017) and (2018 - 2020)</li>
 </ul>
