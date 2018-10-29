@@ -30,24 +30,18 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
-  <li><a href="https://collab2018.weebly.com">Collective Animal Behavior, CCS'18 Satellite Workshop,</a> Thessaloniki, Greece, September 2018 [<b>invited</b>]</li>
-  <li><a href="https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase#September_2018">Wikimedia Research Showcase</a> San Francisco, CA, USA, September 2018 [invited]</li>
-  <li><a href="http://www.epidemiologia.it/convegno-aie-di-primavera-2018/">AIE Spring Meeting</a> Rome, Italy, March 2018 [invited]</li>
-  <li><a href="http://inserm.fr">INSERM Research Seminars</a> Paris, France, November 2017 [invited]</li>
+  <li><a href="https://collab2018.weebly.com">Collective Animal Behavior, CCS'18 Satellite Meeting.</a> Thessaloniki, Greece, September 2018 [<b>invited</b>]</li>
+  <li><a href="https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase#September_2018">Wikimedia Research Showcase.</a> San Francisco, CA, USA, September 2018 [<b>invited</b>]</li>
+  <li><a href="http://www.epidemiologia.it/convegno-aie-di-primavera-2018/">AIE Spring Meeting.</a> Rome, Italy, March 2018 [<b>invited</b>]</li>
+  <li><a href="http://inserm.fr">INSERM Research Seminars.</a> Paris, France, November 2017 [<b>invited</b>]</li>
   <li><a href="http://ccs2017.org/">Conference on Complex Systems.</a> Cancún, Mexico, September 2017</li>
-  <li><a href="https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/">SAMMBA Seminar Series.</a> Institute Pasteur, Paris, France, February 2017 [invited]</li>
-  <li><a href="">International Workshop "Assessing the Threats to Public Health".</a> Doha, Qatar, November 2016 [invited]</li>
+  <li><a href="https://research.pasteur.fr/en/event/sammba-seminar-michele-tizzoni-fast-and-accurate-dynamic-estimation-of-field-effectiveness-of-meningococcal-vaccines/">SAMMBA Seminar Series.</a> Institute Pasteur, Paris, France, February 2017 [<b>invited</b>]</li>
+  <li><a href="">International Workshop "Assessing the Threats to Public Health".</a> Doha, Qatar, November 2016 [<b>invited</b>]</li>
   <li><a href="http://complexnets2016.org">Complex Networks 2016.</a> Marseille, France, July 2016</li>
   <li><a href="http://www.netsci2016.net">NetSci 2016.</a> Seoul, South Korea, May 2016</li>
   <li><a href="http://contagion15.weebly.com/">Contagion'15.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://ccs2015.org/">Conference on Complex Systems.</a> Tempe, AZ, USA, September 2015</li>
   <li><a href="http://www.cecam.org/workshop-2-1215.html">Recognizing the Relevance of Change: Analysis and Control of Time-evolving Networks in Epidemiology and Evolutionary Medicine.</a> Berlin, Germany, July 2015</li>
-  <li><a href="http://www.netsci2015.net">NetSci. International Conference on Network Science.</a> Zaragoza, Spain, June 2015 [poster]</li>
-  <li><a href="http://www.eccs14.eu">European Conference on Complex Systems.</a> Lucca, Italy, September 2014</li>
-  <li><a href="http://www.isi.it/the-future-of-public-health-in-digital-era-annecy-5-7-june-2014/">Future of Public Health in Digital Era.</a> Annecy, France, June 2014</li>
-  <li><a href="http://www.epidemics.elsevier.com/">Epidemics.</a> Amsterdam, Netherlands, November 2013</li>
-  <li><a href="http://www.eccs13.eu">European Conference on Complex Systems.</a> Barcelona, Spain, September 2013</li>
-  <li><a href="http://perso.uclouvain.be/vincent.blondel/netmob/2013/">NetMob. Third Conference on the Analysis of Mobile Phone Datasets.</a> Boston, MA, USA, May 2013</li>
 </ul>
 
 <hr>
