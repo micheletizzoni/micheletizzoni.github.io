@@ -30,7 +30,7 @@ I am one of the founders of <a href="http://databeerstorino.tumblr.com/">DataBee
 <h2>Recent Talks</h2>
 
 <ul>
-  <li><a href="https://collab2018.weebly.com">Collective Animal Behavior, CCS'18 Satellite Workshop,</a> Thessaloniki, Greece, September 2018 [*invited*]</li>
+  <li><a href="https://collab2018.weebly.com">Collective Animal Behavior, CCS'18 Satellite Workshop,</a> Thessaloniki, Greece, September 2018 [<b>invited</b>]</li>
   <li><a href="https://www.mediawiki.org/wiki/Wikimedia_Research/Showcase#September_2018">Wikimedia Research Showcase</a> San Francisco, CA, USA, September 2018 [invited]</li>
   <li><a href="http://www.epidemiologia.it/convegno-aie-di-primavera-2018/">AIE Spring Meeting</a> Rome, Italy, March 2018 [invited]</li>
   <li><a href="http://inserm.fr">INSERM Research Seminars</a> Paris, France, November 2017 [invited]</li>
