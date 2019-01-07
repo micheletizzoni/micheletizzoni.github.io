@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paper published in the Journal of Medical Internet Research"
-date:  2018-01-04 10:00:00
+date:  2019-01-04 10:00:00
 author: Michele Tizzoni
 categories: news
 #cover:  "assets/instacode.png"
