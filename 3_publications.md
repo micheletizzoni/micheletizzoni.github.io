@@ -14,8 +14,8 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 <ol reversed>
 
   <li>N. Adler, C. Cattuto, K. Kalimeri, D. Paolotti, <strong>M. Tizzoni</strong>, S. Verhulst, E. Yom-Tov, A. Young<br>
-  <a href="https://preprints.jmir.org/preprint/10179/accepted">Beyond demographics: How search engine data can enhance the understanding of determinants of suicide in India and inform prevention</a><br>
-  Journal of Medical Internet Research (2018)<br>
+  <a href="https://www.jmir.org/2019/1/e10179/">How Search Engine Data Enhance the Understanding of Determinants of Suicide in India and Inform Prevention: Observational Study</a><br>
+  Journal of Medical Internet Research 21:e10179 (2019)<br>
   <br>
 
   <li>L. Ozella, L. Gauvin, L. Carenzo, M. Quaggiotto, P.L. Ingrassia, <strong>M. Tizzoni</strong>, A. Panisson, D. Colombo, A. Sapienza, K. Kalimeri, F. Della Corte, C. Cattuto<br>
