@@ -133,7 +133,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   <br>
 
   <li>V. Colizza, A. Vespignani, N. Perra, C. Poletto, B. Gonçalves, H. Hu, D. Balcan, D. Paolotti, W. Van den Broeck, <strong>M. Tizzoni</strong>, P. Bajardi, J. J. Ramasco.<br>
-  <a href="http://currents.plos.org/influenza/article/estimate-of-novel-influenza-ah1n1-cases-in-mexico-at-the-early-stage-of-the-pandemic-with-a-spatially-structured-epidemic-model/">Estimate of Novel Influenza A/H1N1 cases in Mexico at the early stage of the pandemic with a spatially structured epidemic model.</a>
+  <a href="http://currents.plos.org/influenza/article/estimate-of-novel-influenza-ah1n1-cases-in-mexico-at-the-early-stage-of-the-pandemic-with-a-spatially-structured-epidemic-model/">Estimate of Novel Influenza A/H1N1 cases in Mexico at the early stage of the pandemic with a spatially structured epidemic model.</a><br>
   PLoS Currents: Influenza. 2009 Nov 17 (2009)
   </li>
   <br>
@@ -155,6 +155,3 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   BMC Medicine 7, 45 (2009)
   </li>
   <br>
-
-
-</ol>
