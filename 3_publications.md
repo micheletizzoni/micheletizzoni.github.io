@@ -19,7 +19,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   <br>
 
   <li>L. Ozella, L. Gauvin, L. Carenzo, M. Quaggiotto, P.L. Ingrassia, <strong>M. Tizzoni</strong>, A. Panisson, D. Colombo, A. Sapienza, K. Kalimeri, F. Della Corte, C. Cattuto<br>
-  <a href="https://www.jmir.org/2019/4/e12251/"></a>Wearable Proximity Sensors for Monitoring a Mass Casualty Incident Exercise: Feasibility Study<br>
+  <a href="https://www.jmir.org/2019/4/e12251/">Wearable Proximity Sensors for Monitoring a Mass Casualty Incident Exercise: Feasibility Study</a><br>
   Journal of Medical Internet Research 21:e12251 (2019)<br>
   <br>
 
