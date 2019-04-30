@@ -154,6 +154,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   <a href="http://www.biomedcentral.com/1741-7015/7/45">Seasonal transmission potential and activity peaks of the new influenza A(H1N1): a Monte Carlo likelihood analysis based on human mobility.</a><br>
   BMC Medicine 7, 45 (2009)
   </li>
+  <br>
 
 
 </ol>
