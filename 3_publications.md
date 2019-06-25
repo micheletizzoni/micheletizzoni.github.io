@@ -25,7 +25,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
   <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
   <a href="https://www.biorxiv.org/content/early/2018/06/17/346411">The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic</a><br>
-  bioRxiv 346411 (2018)<br>
+  bioRxiv:346411 (2018)<br>
   <br>
 
   <li>L. Ozella, F. Gesualdo, <strong>M. Tizzoni</strong>, C. Rizzo, E. Pandolfi, I. Campagna, A. E. Tozzi, C. Cattuto <br>
