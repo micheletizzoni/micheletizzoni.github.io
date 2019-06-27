@@ -33,6 +33,11 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   Journal of Medical Internet Research 21:e12251 (2019)<br>
   <br>
 
+  <li>D. Paolotti, <strong>M. Tizzoni</strong><br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/8631477">Special Session: Data Science for Social Good</a><br>
+  IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)( 2018)<br>
+  <br>
+
   <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
   <a href="https://www.biorxiv.org/content/early/2018/06/17/346411">The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic</a><br>
   bioRxiv:346411 (2018)<br>
