@@ -13,6 +13,16 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
+  <li>L. Gauvin, <strong>M. Tizzoni</strong>, S. Piaggesi, A. Young,  N. Adler, S. Verhulst, L. Ferres, C. Cattuto<br>
+  <a href="https://arxiv.org/abs/1906.09092">Gender Gaps in Urban Mobility</a><br>
+  arXiv:1906.09092 (2019)<br>
+  <br>
+
+  <li>S. Piaggesi, L. Gauvin, <strong>M. Tizzoni</strong>, C. Cattuto, N. Adler, S. Verhulst, A. Young, R. Price, L. Ferres, A. Panisson<br>
+  <a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Piaggesi_Predicting_City_Poverty_Using_Satellite_Imagery_CVPRW_2019_paper.html">Predicting City Poverty Using Satellite Imagery</a><br>
+  In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 90-96) (2019)<br>
+  <br>
+
   <li>N. Adler, C. Cattuto, K. Kalimeri, D. Paolotti, <strong>M. Tizzoni</strong>, S. Verhulst, E. Yom-Tov, A. Young<br>
   <a href="https://www.jmir.org/2019/1/e10179/">How Search Engine Data Enhance the Understanding of Determinants of Suicide in India and Inform Prevention: Observational Study</a><br>
   Journal of Medical Internet Research 21:e10179 (2019)<br>
