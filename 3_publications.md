@@ -21,7 +21,6 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   <li>J. Wilson-Aggarwal, L. Ozella, <strong>M. Tizzoni</strong>, C. Cattuto, G. Swan, T. Moundai, M. Silk, J. Zingeser, and R. A. McDonald<br>
   <a href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007565">High-resolution contact networks of free-ranging domestic dogs Canis familiaris and implications for transmission of infection</a><br>
   PLoS Negl Trop Dis 13(7): e0007565 (2019)<br>
-  <br>
   </li>
   <br>
 
