@@ -18,6 +18,14 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   arXiv:1906.09092 (2019)<br>
   <br>
 
+  <li>J. Wilson-Aggarwal, L. Ozella, <strong>M. Tizzoni</strong>, C. Cattuto, G. Swan, T. Moundai, M. Silk, J. Zingeser, and R. A. McDonald<br>
+  <a href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007565">High-resolution contact networks of free-ranging domestic dogs Canis familiaris and implications for transmission of infection</a><br>
+  PLoS Negl Trop Dis 13(7): e0007565 (2019)<br>
+  <br>
+  </li>
+  <br>
+
+
   <li>S. Piaggesi, L. Gauvin, <strong>M. Tizzoni</strong>, C. Cattuto, N. Adler, S. Verhulst, A. Young, R. Price, L. Ferres, A. Panisson<br>
   <a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Piaggesi_Predicting_City_Poverty_Using_Satellite_Imagery_CVPRW_2019_paper.html">Predicting City Poverty Using Satellite Imagery</a><br>
   In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 90-96) (2019)<br>
