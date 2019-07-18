@@ -25,7 +25,6 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   </li>
   <br>
 
-
   <li>S. Piaggesi, L. Gauvin, <strong>M. Tizzoni</strong>, C. Cattuto, N. Adler, S. Verhulst, A. Young, R. Price, L. Ferres, A. Panisson<br>
   <a href="http://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/Piaggesi_Predicting_City_Poverty_Using_Satellite_Imagery_CVPRW_2019_paper.html">Predicting City Poverty Using Satellite Imagery</a><br>
   In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (pp. 90-96) (2019)<br>
