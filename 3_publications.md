@@ -23,7 +23,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   PLOS Computational Biology 16, e1007633	(2020)<br>
   Paper data are <a href="https://zenodo.org/record/3603916#.Xt0VSp4zblw">available on Zenodo</a>.<br>
   <br>
-  Press coverage: <a href="https://www.forbes.com/sites/farahqaiser/2020/03/18/like-zika-the-public-is-heading-to-wikipedia-during-the-covid-19-coronavirus-pandemic/#1aaa03f2de3e">Forbes.</a><br>
+  Press coverage: <a href="https://www.forbes.com/sites/farahqaiser/2020/03/18/like-zika-the-public-is-heading-to-wikipedia-during-the-covid-19-coronavirus-pandemic/#1aaa03f2de3e">Forbes.</a>,
   <a href="https://www.upi.com/Health_News/2020/04/29/Google-searches-for-malaria-drug-spiked-after-Trump-Musk-endorsements/4361588165460/">United Press International.</a><br>
   </li>
   <br>
