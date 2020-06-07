@@ -18,6 +18,16 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   arXiv:1906.09092 (2019)<br>
   <br>
 
+  <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
+  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007633">The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic</a><br>
+  PLOS Computational Biology 16, e1007633	(2020)<br>
+  Paper data are <a href="https://zenodo.org/record/3603916#.Xt0VSp4zblw">available on Zenodo</a>.<br>
+  <br>
+  Press coverage: <a href="https://www.forbes.com/sites/farahqaiser/2020/03/18/like-zika-the-public-is-heading-to-wikipedia-during-the-covid-19-coronavirus-pandemic/#1aaa03f2de3e">Forbes.</a><br>
+  <a href="https://www.upi.com/Health_News/2020/04/29/Google-searches-for-malaria-drug-spiked-after-Trump-Musk-endorsements/4361588165460/">United Press International.</a><br>
+  </li>
+  <br>
+
   <li>J. Wilson-Aggarwal, L. Ozella, <strong>M. Tizzoni</strong>, C. Cattuto, G. Swan, T. Moundai, M. Silk, J. Zingeser, and R. A. McDonald<br>
   <a href="https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0007565">High-resolution contact networks of free-ranging domestic dogs Canis familiaris and implications for transmission of infection</a><br>
   PLoS Negl Trop Dis 13(7): e0007565 (2019)<br>
@@ -42,11 +52,6 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   <li>D. Paolotti, <strong>M. Tizzoni</strong><br>
   <a href="https://ieeexplore.ieee.org/abstract/document/8631477">Special Session: Data Science for Social Good</a><br>
   IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA)( 2018)<br>
-  <br>
-
-  <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
-  <a href="https://www.biorxiv.org/content/early/2018/06/17/346411">The impact of news exposure on collective attention in the United States during the 2016 Zika epidemic</a><br>
-  bioRxiv:346411 (2018)<br>
   <br>
 
   <li>L. Ozella, F. Gesualdo, <strong>M. Tizzoni</strong>, C. Rizzo, E. Pandolfi, I. Campagna, A. E. Tozzi, C. Cattuto <br>
