@@ -13,9 +13,20 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
+  <li>E. Pepe, P. Bajardi, L. Gauvin, F. Privitera, B. Lake, C. Cattuto, <strong>M. Tizzoni</strong><br>
+  <a href="https://www.nature.com/articles/s41597-020-00575-2">COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown.</a><br>
+  Scientific Data 7, 2030 (2020)<br>
+  <br>
+
+  <li>N. Oliver, B. Lepri, H. Sterly, R. Lambiotte, S. Deletaille, M. De Nadai, E. Letouzé, A. A. Salah, R. Benjamins, C. Cattuto, V. Colizza, N. de Cordes, S. P. Fraiberger, T. Koebe, S. Lehmann, J. Murillo, A. Pentland, P. N Pham, F. Pivetta, J. Saramäki, S. V. Scarpino,<strong>M. Tizzoni</strong>, S. Verhulst, P. Vinck<br>
+  <a href="https://advances.sciencemag.org/content/6/23/eabc0764.abstract">Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle.</a><br>
+  Science Advances 6, eabc0764 (2020)<br>
+  <br>
+
+
   <li>L. Gauvin, <strong>M. Tizzoni</strong>, S. Piaggesi, A. Young,  N. Adler, S. Verhulst, L. Ferres, C. Cattuto<br>
-  <a href="https://arxiv.org/abs/1906.09092">Gender Gaps in Urban Mobility</a><br>
-  arXiv:1906.09092 (2019)<br>
+  <a href="https://www.nature.com/articles/s41599-020-0500-x">Gender Gaps in Urban Mobility</a><br>
+  Humanities and Social Sciences Communincations 7, 11 (2020)<br>
   <br>
 
   <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
