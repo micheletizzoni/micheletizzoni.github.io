@@ -23,10 +23,14 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
   Science Advances 6, eabc0764 (2020)<br>
   <br>
 
-
   <li>L. Gauvin, <strong>M. Tizzoni</strong>, S. Piaggesi, A. Young,  N. Adler, S. Verhulst, L. Ferres, C. Cattuto<br>
   <a href="https://www.nature.com/articles/s41599-020-0500-x">Gender Gaps in Urban Mobility</a><br>
   Humanities and Social Sciences Communincations 7, 11 (2020)<br>
+  <br>
+
+  <li>D. Rama, Y. Mejova, <strong>M. Tizzoni</strong>, K. Kalimeri, I. Weber<br>
+  <a href="https://dl.acm.org/doi/10.1145/3366423.3380118">Facebook Ads as a Demographic Tool to Measure the Urban-Rural Divide</a><br>
+  WWW'20: Proceedings of The Web Conference 2020 pp. 327-338 (2020)<br>
   <br>
 
   <li><strong>M. Tizzoni</strong>, A. Panisson, D. Paolotti, C. Cattuto <br>
