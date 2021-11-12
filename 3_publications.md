@@ -13,7 +13,7 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
-<li>M. Starnini, A. Aleta, <strong>M. Tizzoni</strong>, Y. Moreno
+  <li>M. Starnini, A. Aleta, <strong>M. Tizzoni</strong>, Y. Moreno
 <a href="https://www.cambridge.org/core/journals/data-and-policy/article/impact-of-data-accuracy-on-the-evaluation-of-covid19-mitigation-policies/">Impact of data accuracy on the evaluation of COVID-19 mitigation policies.</a><br>
 Data & Policy 3, e28 (2021)<br>
 <br>
