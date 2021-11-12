@@ -13,6 +13,11 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
+<li>M. Starnini, A. Aleta, <strong>M. Tizzoni</strong><br>, Y. Moreno
+<a href="https://www.cambridge.org/core/journals/data-and-policy/article/impact-of-data-accuracy-on-the-evaluation-of-covid19-mitigation-policies/">Impact of data accuracy on the evaluation of COVID-19 mitigation policies.</a><br>
+Data & Policy 3, e28 (2021)<br>
+<br>
+
   <li>E. Pepe, P. Bajardi, L. Gauvin, F. Privitera, B. Lake, C. Cattuto, <strong>M. Tizzoni</strong><br>
   <a href="https://www.nature.com/articles/s41597-020-00575-2">COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown.</a><br>
   Scientific Data 7, 2030 (2020)<br>
