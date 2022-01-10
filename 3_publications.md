@@ -23,8 +23,6 @@ Cell 184(25), 6010-6014 (2021)<br>
 Journal of Royal Society Interface 18:20210092 (2021)<br>
 <br>
 
-
-
 <li>M. Mazzoli, E. Pepe, D. Mateo, C. Cattuto, L. Gauvin, P. Bajardi, <strong>M. Tizzoni</strong>, A. Hernando, S. Meloni, J.J. Ramasco<br>
 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326">Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact.</a><br>
 PLoS Computational Biology 17(10), e1009326 (2021)<br>
@@ -54,7 +52,7 @@ Data & Policy 3, e28 (2021)<br>
   Scientific Data 7, 2030 (2020)<br>
   <br>
 
-  <li>N. Oliver, B. Lepri, H. Sterly, R. Lambiotte, S. Deletaille, M. De Nadai, E. Letouzé, A. A. Salah, R. Benjamins, C. Cattuto, V. Colizza, N. de Cordes, S. P. Fraiberger, T. Koebe, S. Lehmann, J. Murillo, A. Pentland, P. N Pham, F. Pivetta, J. Saramäki, S. V. Scarpino,<strong>M. Tizzoni</strong>, S. Verhulst, P. Vinck<br>
+  <li>N. Oliver, B. Lepri, H. Sterly, R. Lambiotte, S. Deletaille, M. De Nadai, E. Letouzé, A. A. Salah, R. Benjamins, C. Cattuto, V. Colizza, N. de Cordes, S. P. Fraiberger, T. Koebe, S. Lehmann, J. Murillo, A. Pentland, P. N Pham, F. Pivetta, J. Saramäki, S. V. Scarpino, <strong>M. Tizzoni</strong>, S. Verhulst, P. Vinck<br>
   <a href="https://advances.sciencemag.org/content/6/23/eabc0764.abstract">Mobile phone data for informing public health actions across the COVID-19 pandemic life cycle.</a><br>
   Science Advances 6, eabc0764 (2020)<br>
   <br>
