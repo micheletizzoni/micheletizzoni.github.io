@@ -13,10 +13,41 @@ Check out my profile on [Google Scholar](https://scholar.google.it/citations?use
 
 <ol reversed>
 
+<li>S. C. Briand, M. Cinelli, T. Nguyen, R. Lewis, D. Prybylski, C. M. Valensise, V. Colizza, A. E. Tozzi, N. Perra, A. Baronchelli, <strong>M. Tizzoni</strong>, F. Zollo, A. Scala, T. Purnat, C. Czerniak, A. J. Kucharski, A. Tshangela, L. Zhou, W. Quattrociocchi<br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0092867421012861">Infodemics: A new challenge for public health.</a><br>
+Cell 184(25), 6010-6014 (2021)<br>
+<br>
+
+<li>L. Gauvin, P. Bajardi, E. Pepe, B. Lake, F. Privitera, <strong>M. Tizzoni</strong><br>
+<a href="https://royalsocietypublishing.org/doi/10.1098/rsif.2021.0092">Socio-economic determinants of mobility responses during the first wave of COVID-19 in Italy: from provinces to neighbourhoods.</a><br>
+Journal of Royal Society Interface 18:20210092 (2021)<br>
+<br>
+
+
+
+<li>M. Mazzoli, E. Pepe, D. Mateo, C. Cattuto, L. Gauvin, P. Bajardi, <strong>M. Tizzoni</strong>, A. Hernando, S. Meloni, J.J. Ramasco<br>
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326">Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact.</a><br>
+PLoS Computational Biology 17(10), e1009326 (2021)<br>
+<br>
+
+<li>N. Gozzi, <strong>M. Tizzoni</strong>, M. Chinazzi, L. Ferres, A. Vespignani, N. Perra<br>
+<a href="https://www.nature.com/articles/s41597-020-00575-2">Estimating the effect of social inequalities on the mitigation of COVID-19 across communities in Santiago de Chile.</a><br>
+Nature Communications 12, 2429 (2021)<br>
+<br>
+
+<li>L.R. Woskie, J. Hennessy ,V. Espinosa, T.C. Tsai, S. Vispute, B.H. Jacobson, C. Cattuto, L. Gauvin, <strong>M. Tizzoni</strong>, A. Fabrikant, K. Gadepalli, A. Boulanger, A. Pearce, C. Kamath, A. Schlosberg, C. Stanton, S. Bavadekar, M. Abueg, M. Hogue, A. Oplinger, K. Chou, G. Corrado, T. Shekel, A.K. Jha, G.A. Wellenius, E. Gabrilovich<br>
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253071">Early social distancing policies in Europe, changes in mobility & COVID-19 case trajectories: Insights from Spring 2020.</a><br>
+PLoS ONE 16(6), e0253071 (2021)<br>
+<br>
+
   <li>M. Starnini, A. Aleta, <strong>M. Tizzoni</strong>, Y. Moreno
 <a href="https://www.cambridge.org/core/journals/data-and-policy/article/impact-of-data-accuracy-on-the-evaluation-of-covid19-mitigation-policies/">Impact of data accuracy on the evaluation of COVID-19 mitigation policies.</a><br>
 Data & Policy 3, e28 (2021)<br>
 <br>
+
+  <li>Y. Ophir, D. Walter, D. Arnon, A. Lokmanoglu, <strong>M. Tizzoni</strong>, J. Carota, L. D'Antiga, E. Nicastro
+  <a href="https://www.tandfonline.com/doi/full/10.1080/10810730.2021.1899344">The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach.</a><br> Journal of Health Communication 26:3, 161-173 (2021)<br>
+  <br>
 
   <li>E. Pepe, P. Bajardi, L. Gauvin, F. Privitera, B. Lake, C. Cattuto, <strong>M. Tizzoni</strong><br>
   <a href="https://www.nature.com/articles/s41597-020-00575-2">COVID-19 outbreak response, a dataset to assess mobility changes in Italy following national lockdown.</a><br>
