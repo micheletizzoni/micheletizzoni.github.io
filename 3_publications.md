@@ -23,6 +23,11 @@ Cell 184(25), 6010-6014 (2021)<br>
 Journal of Royal Society Interface 18:20210092 (2021)<br>
 <br>
 
+<li>O. Prunas, D. M. Weinberger, D. Medini, <strong>M. Tizzoni</strong>, L. Argante<br>
+<a href="https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwab266/6424453?login=true">Evaluating the Impact of Meningococcal Vaccines With Synthetic Controls.</a><br>
+American Journal of Epidemiology (2021)<br>
+<br>
+
 <li>M. Mazzoli, E. Pepe, D. Mateo, C. Cattuto, L. Gauvin, P. Bajardi, <strong>M. Tizzoni</strong>, A. Hernando, S. Meloni, J.J. Ramasco<br>
 <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009326">Interplay between mobility, multi-seeding and lockdowns shapes COVID-19 local impact.</a><br>
 PLoS Computational Biology 17(10), e1009326 (2021)<br>
