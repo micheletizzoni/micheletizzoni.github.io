@@ -43,12 +43,12 @@ Nature Communications 12, 2429 (2021)<br>
 PLoS ONE 16(6), e0253071 (2021)<br>
 <br>
 
-  <li>M. Starnini, A. Aleta, <strong>M. Tizzoni</strong>, Y. Moreno
+  <li>M. Starnini, A. Aleta, <strong>M. Tizzoni</strong>, Y. Moreno<br>
 <a href="https://www.cambridge.org/core/journals/data-and-policy/article/impact-of-data-accuracy-on-the-evaluation-of-covid19-mitigation-policies/">Impact of data accuracy on the evaluation of COVID-19 mitigation policies.</a><br>
 Data & Policy 3, e28 (2021)<br>
 <br>
 
-  <li>Y. Ophir, D. Walter, D. Arnon, A. Lokmanoglu, <strong>M. Tizzoni</strong>, J. Carota, L. D'Antiga, E. Nicastro
+  <li>Y. Ophir, D. Walter, D. Arnon, A. Lokmanoglu, <strong>M. Tizzoni</strong>, J. Carota, L. D'Antiga, E. Nicastro<br>
   <a href="https://www.tandfonline.com/doi/full/10.1080/10810730.2021.1899344">The Framing of COVID-19 in Italian Media and Its Relationship with Community Mobility: A Mixed-Method Approach.</a><br> Journal of Health Communication 26:3, 161-173 (2021)<br>
   <br>
 
